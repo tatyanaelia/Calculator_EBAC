@@ -54,3 +54,25 @@ Se o usuário digitar um número que não corresponde a uma das opções, uma me
 Encerramento do Programa:  
 O programa pode ser encerrado com a opção "5", que imprime uma mensagem de despedida e sai do loop.
 
+<p align="center">
+  <strong><mark>Como Executar o Arquivo `.sh`</mark></strong>
+</p>
+
+Para executar o script `.sh` no seu terminal:
+
+---
+
+```bash
+chmod +x nome_do_arquivo.sh
+
+#Após garantir que o arquivo tem permissões de execução, você pode rodá-lo diretamente no terminal:
+
+bash
+Copiar
+Editar
+./nome_do_arquivo.sh
+
+
+
+
+
